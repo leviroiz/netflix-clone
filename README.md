@@ -4,6 +4,12 @@ Clone da página inicial da Netflix Brasil, desenvolvido durante meus estudos de
 
 ---
 
+## 🖼️ Preview
+
+![Preview do projeto](./assets/preview.png)
+
+---
+
 ## 🖥️ Sobre o projeto
 
 Recriação da landing page da Netflix com foco em praticar estruturação HTML e estilização CSS, incluindo layout com Grid, gradientes e vídeos em background.
